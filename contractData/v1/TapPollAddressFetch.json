@@ -1,0 +1,16 @@
+{
+  "abi": [
+    {
+      "anonymous": false,
+      "inputs": [
+        {
+          "indexed": false,
+          "name": "tapPollAddress",
+          "type": "address"
+        }
+      ],
+      "name": "TapPollCreated",
+      "type": "event"
+    }
+  ]
+}

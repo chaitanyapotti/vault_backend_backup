@@ -1,0 +1,16 @@
+{
+  "abi": [
+    {
+      "anonymous": false,
+      "inputs": [
+        {
+          "indexed": false,
+          "name": "xfrAddress",
+          "type": "address"
+        }
+      ],
+      "name": "XfrPollCreated",
+      "type": "event"
+    }
+  ]
+}
